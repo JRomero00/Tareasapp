@@ -9,5 +9,14 @@ El objetivo de este proyecto es comprender cómo la arquitectura de software inf
 -Versión monolítica: un solo archivo `main.py`.
 -Versión modular con arquitectura **MVC**.
 
-## Estructura del Proyecto (MVC)
+
+
+
+## Cómo ejecutar?
+
+1. Crear y activar entorno virtual:
+   python -m venv env
+   .\env\Scripts\activate
+
+python main.py
 
